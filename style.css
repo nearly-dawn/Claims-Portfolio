@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+
+body {
+    background-color: #101010;
+    margin: 0;
+    padding: 40px 20px;
+}
+
+.main {
+    background-color: #1d1d1d; 
+    color: white;          
+    padding: 20px;            
+    width: 900px;           
+    border-radius: 9px;       
+    width: 500;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Fredoka', sans-serif;
+}
+
+.card-avatar {
+    width: 200px;       
+    height: 200px;     
+    border-radius: 50%; 
+    object-fit: cover; 
+    border: 5px solid #87CEFA;
+}
+
+.RIA {
+    background-color: #1d1d1d; 
+    color: white;
+    padding: 24px;            
+    max-width: 500px;        
+    margin: 20px auto;        
+    border-radius: 9px;      
+    text-align: center;
+    font-family: 'Fredoka', sans-serif;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); 
+    border: 3px solid white;
+}
+
+.SD {
+    background-color: #1d1d1d; 
+    color: white;
+    padding: 24px;           
+    max-width: 500px;        
+    margin: 20px auto;        
+    border-radius: 9px;      
+    text-align: center;
+    font-family: 'Fredoka', sans-serif;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); 
+    border: 3px solid white;
+}
+
+.DL {
+    background-color: #1d1d1d; 
+    color: white;
+    padding: 24px;            
+    max-width: 500px;        
+    margin: 20px auto;        
+    border-radius: 9px;       
+    text-align: center;
+    font-family: 'Fredoka', sans-serif;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); 
+    border: 3px solid white;
+}
+
+.RoDevs {
+    background-color: #1d1d1d; 
+    color: white;
+    padding: 24px;            
+    max-width: 500px;         
+    margin: 20px auto;        
+    border-radius: 9px;      
+    text-align: center;
+    font-family: 'Fredoka', sans-serif;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); 
+    border: 3px solid white;
+    line-height: 1.6;
+}
+
+.LUAU {
+    background-color: #1d1d1d; 
+    color: white;
+    padding: 24px;           
+    max-width: 500px;         
+    margin: 20px auto;        
+    border-radius: 9px;       
+    text-align: center;
+    font-family: 'Fredoka', sans-serif;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); 
+    border: 3px solid white;
+}
+
+.Luau.Invite {
+    display: inline-block;          
+    background-color: #2a2a2a;       
+    color: #87CEFA;                 
+    padding: 10px 24px;             
+    margin-top: 15px;                
+    text-decoration: none;          
+    border-radius: 6px;              
+    font-weight: 600;                
+    font-size: 15px;
+    border: 1px solid #3a3a3a;       
+    transition: all 0.2s ease-in-out;
+}
+
+.Luau.Invite:hover {
+    background-color: #87CEFA;       
+    color: #1d1d1d;                  
+    cursor: pointer;                 
+    transform: translateY(-2px);    
+}

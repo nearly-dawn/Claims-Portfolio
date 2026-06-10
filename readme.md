@@ -1,0 +1,1 @@
+Hey! This is a portfolio I made for myself. I made the HTML file entirely myself but parts of the CSS file are AI as I am still learning CSS. Feel free to use this and play with the HTML or CSS if you're learning!
